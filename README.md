@@ -28,7 +28,15 @@ Rent and Sell real estates
 + Help both sides through the whole process with preparation of a contract
 + Train and oversee a team of 3-4 estate agents
 
+# EDUCATION
 
+**Bachelor's Degree in Finance** - **University of Economics** - Varna - 2021-2016\
+**Master's Degree in Business with Real Estates** - **University of National and World Economy** - Sofia - 2016-2017\
+**Master's Degree in Psychology** - **University of Veliko Turnovo "St. Cyril and St. Methodius"** - Pleven - 09/2024-Present
+
+# KEY ACHIEVEMENTS
+
++ **Customer 
 
 
 
