@@ -3,7 +3,7 @@
 **Customer Support Agent**\
 Phone number: +359882429139\
 Email: desinka2701@gmail.com\
-LinkdIn: [www.linkedin.com/in/desislava-bakardzhieva-a91547b3](www.linkedin.com/in/desislava-bakardzhieva-a91547b3)\
+LinkеdIn: [www.linkedin.com/in/desislava-bakardzhieva-a91547b3](www.linkedin.com/in/desislava-bakardzhieva-a91547b3)\
 GitHub: [https://github.com/DesislavaBakardzhieva/CV-markdown.github.oi](https://github.com/DesislavaBakardzhieva/CV-markdown.github.oi)
 
 # SUMMARY
