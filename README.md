@@ -4,7 +4,7 @@
 Phone number: +359882429139\
 Email: desinka2701@gmail.com\
 LinkеdIn: [www.linkedin.com/in/desislava-bakardzhieva-a91547b3](www.linkedin.com/in/desislava-bakardzhieva-a91547b3)\
-GitHub: [https://github.com/DesislavaBakardzhieva/CV-markdown.github.oi](https://github.com/DesislavaBakardzhieva/CV-markdown.github.oi)
+GitHub: [https://github.com/DesislavaBakardzhieva](https://github.com/DesislavaBakardzhieva)
 
 # SUMMARY
 Certified Scrum Master with a passion for fostering collaboration and implementing Agile methodologies. My background as a real estate agent and support has equipped me with strong communication, organizational and problem-solving skills. I am eager to apply my training and transferable experience to a dynamic team environment, contributing to impactful results and continuous improvment.
@@ -36,7 +36,8 @@ Rent and Sell real estates
 
 # KEY ACHIEVEMENTS
 
-+ **Customer 
++ **Customer Issue Resolution** - Resolved 95% of customer issues on first contact within healthcare role.
++ **Team Training Success** - Trained team of 4 agents, boostingproductivity by 20%
 
 
 
