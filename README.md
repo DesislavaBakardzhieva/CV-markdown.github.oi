@@ -30,11 +30,11 @@ Rent and Sell real estates
 
 # EDUCATION
 
-**Bachelor's Degree in Finance** - **University of Economics** - Varna - 2021-2016
++ **Bachelor's Degree in Finance** - **University of Economics** - Varna - 2021-2016
 
-**Master's Degree in Business with Real Estates** - **University of National and World Economy** - Sofia - 2016-2017
++ **Master's Degree in Business with Real Estates** - **University of National and World Economy** - Sofia - 2016-2017
 
-**Master's Degree in Psychology** - **University of Veliko Turnovo "St. Cyril and St. Methodius"** - Pleven - 09/2024-Present
++ **Master's Degree in Psychology** - **University of Veliko Turnovo "St. Cyril and St. Methodius"** - Pleven - 09/2024-Present
 
 # KEY ACHIEVEMENTS
 
