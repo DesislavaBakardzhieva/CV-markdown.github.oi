@@ -30,16 +30,16 @@ Rent and Sell real estates
 
 # EDUCATION
 
-+ **Bachelor's Degree in Finance** - **University of Economics** - Varna - 2021-2016
++ **Bachelor's Degree in Finance** - **University of Economics** - Varna - 09/2021-07/2016
 
-+ **Master's Degree in Business with Real Estates** - **University of National and World Economy** - Sofia - 2016-2017
++ **Master's Degree in Business with Real Estates** - **University of National and World Economy** - Sofia - 10/2016-07/2017
 
 + **Master's Degree in Psychology** - **University of Veliko Turnovo "St. Cyril and St. Methodius"** - Pleven - 09/2024-Present
 
 # KEY ACHIEVEMENTS
 
 + **Customer Issue Resolution** - Resolved 95% of customer issues on first contact within healthcare role.
-+ **Team Training Success** - Trained team of 4 agents, boostingproductivity by 20%
++ **Team Training Success** - Trained team of 4 agents, boosting productivity by 20%
 
 # CERTIFICATIONS
 
