@@ -20,6 +20,15 @@ Project - Pharmaceutical Company
 + Ability to work independently and in a team\
 
 **"Express imoti" Ltd** - **Real Estate Agent** - Varna and Sofia, Bulgaria - 06/2015 - 10/2021\
+Rent and Sell real estates
++ Manage rent or purchase orders for customers (mostly foreigners) from start to finish in a timely, polite and professional manner
++ Communicate with clients and strictly understand and satisfy their requirements
++ Assist in finding what they are looking for
++ Negotiate terms with lessee and lessor
++ Help both sides through the whole process with preparation of a contract
++ Train and oversee a team of 3-4 estate agents
+
+
 
 
 
