@@ -1,4 +1,4 @@
-# DesislavaBakardzhieva.github.oi
+
 # Curriculum Vitae(CV) - **DESISLAVA BAKARDZHIEVA**
 **Customer Support Agent**\
 Phone number: +359882429139\
@@ -7,7 +7,7 @@ LinkеdIn: [www.linkedin.com/in/desislava-bakardzhieva-a91547b3](www.linkedin.co
 GitHub: [https://github.com/DesislavaBakardzhieva](https://github.com/DesislavaBakardzhieva)
 
 # SUMMARY
-Certified Scrum Master with a passion for fostering collaboration and implementing Agile methodologies. My background as a real estate agent and support has equipped me with strong communication, organizational and problem-solving skills. I am eager to apply my training and transferable experience to a dynamic team environment, contributing to impactful results and continuous improvment.
+Certified Scrum Master with a passion for fostering collaboration and implementing Agile methodologies. My background as a real estate agent and support has equipped me with strong communication, organizational and problem-solving skills. I am eager to apply my training and transferable experience to a dynamic team environment, contributing to impactful results and continuous improvement.
 
 # EXPERIENCE
 
@@ -15,9 +15,9 @@ Certified Scrum Master with a passion for fostering collaboration and implementi
 Project - Pharmaceutical Company
 + Handling multiple consumer contacts via Phone/ Live-chat/ E-mail/ Social Media and other channels as required
 + Identifies consumers' needs and performs investigation to provide solution
-+ Accuracy and attention to details
++ Accuracy and attention to detail
 + Sense of discretion around confidential information
-+ Ability to work independently and in a team\
++ Ability to work independently and in a team
 
 **"Express imoti" Ltd** - **Real Estate Agent** - Varna and Sofia, Bulgaria - 06/2015 - 10/2021\
 Rent and Sell real estates
@@ -66,7 +66,7 @@ Certified Scrum Master (CSM/PSM): Successfully completed certification with a st
 **Technical Skills**
 
 + Basic familiarity with tools like Jira and GitHub through independent exploration and online training.
-+ Awareness of Agile metrics, such as Velocity and Burn-down Charts, with plans to gain practical experience in applying them effectively.
++ Awareness of Agile metrics, such as Velocity and Burndown Charts, with plans to gain practical experience in applying them effectively.
   
 **Leadership and Team Facilitation**
 
