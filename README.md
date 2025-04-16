@@ -11,7 +11,7 @@ Certified Scrum Master with a passion for fostering collaboration and implementi
 
 # EXPERIENCE
 
-**"Concentrix" Ltd** - **Customer Support HealthCare Agent** - Sofia,Bulgaria - 12/2021 - Present\
+**"Concentrix" Ltd** - **Customer Support HealthCare Agent** - Sofia,Bulgaria - 12/2021 - 02/2025\
 Project - Pharmaceutical Company
 + Handling multiple consumer contacts via Phone/ Live-chat/ E-mail/ Social Media and other channels as required
 + Identifies consumers' needs and performs investigation to provide solution
